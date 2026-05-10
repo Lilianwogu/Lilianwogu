@@ -33,21 +33,9 @@ Detail-oriented data operations professional with **3+ years** of remote AI trai
 ✅ Self-directed learning and tool mastery  
 ✅ Meticulous attention to detail across large datasets
 
-## 🛠️ Tech & Tools
 
-### AI & Automation
-![ChatGPT](https://img.shields.io/badge/ChatGPT-AI-green?style=for-the-badge&logo=openai)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Advanced-blue?style=for-the-badge)
-![AI Training](https://img.shields.io/badge/AI%20Training-Data%20Annotation-orange?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-Workflows-purple?style=for-the-badge)
+## 🎯 Featured Projects Section 1
 
-### Design & Productivity
-![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva)
-![Google Workspace](https://img.shields.io/badge/Google-Workspace-red?style=for-the-badge&logo=google)
-![Notion](https://img.shields.io/badge/Notion-Productivity-black?style=for-the-badge&logo=notion
-
-
-# 📂 Featured Projects
 
 ## 🤖 AI Automation Projects
 
@@ -81,7 +69,7 @@ Detail-oriented data operations professional with **3+ years** of remote AI trai
 - Presentation slides
 - Business branding kits
 
-## 🎯 Featured Projects
+## 🎯 Featured Projects Section 2
 
 ### 1. Large-Scale Text Classification Initiative
 - **Duration:** 6 months | **Volume:** 10,000+ labeled samples | **Accuracy:** 96.5%
