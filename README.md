@@ -33,6 +33,54 @@ Detail-oriented data operations professional with **3+ years** of remote AI trai
 ✅ Self-directed learning and tool mastery  
 ✅ Meticulous attention to detail across large datasets
 
+## 🛠️ Tech & Tools
+
+### AI & Automation
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI-green?style=for-the-badge&logo=openai)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Advanced-blue?style=for-the-badge)
+![AI Training](https://img.shields.io/badge/AI%20Training-Data%20Annotation-orange?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Workflows-purple?style=for-the-badge)
+
+### Design & Productivity
+![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva)
+![Google Workspace](https://img.shields.io/badge/Google-Workspace-red?style=for-the-badge&logo=google)
+![Notion](https://img.shields.io/badge/Notion-Productivity-black?style=for-the-badge&logo=notion
+
+
+# 📂 Featured Projects
+
+## 🤖 AI Automation Projects
+
+### AI Customer Response Workflow
+- Built structured AI prompts for automated customer support replies
+- Designed workflows for handling FAQs and customer inquiries
+
+### Prompt Engineering Collection
+- Developed optimized prompts for:
+  - Content writing
+  - AI interviews
+  - Social media captions
+  - Email generation
+  - AI assistants
+
+### AI Data Annotation Practice
+- Worked on text labeling and AI training simulations
+- Practiced categorization and quality review tasks
+
+## 🎨 Canva Design Projects
+
+### Social Media Flyers
+- Church event flyers
+- Brand promotions
+- Product launch designs
+- Business marketing materials
+
+### Brand Identity Templates
+- Instagram post templates
+- Story templates
+- Presentation slides
+- Business branding kits
+
 ## 🎯 Featured Projects
 
 ### 1. Large-Scale Text Classification Initiative
@@ -95,6 +143,14 @@ Workflow Optimization    ██████████████░░░░�
 |Reliability        |Expert  |100% deadline adherence               |
 |Self-Direction     |Expert  |3+ years unsupervised remote work     |
 |Consistency        |Expert  |500+ hours maintained excellence      |
+
+# 📈 Goals for 2026
+- Build advanced AI automation systems
+- Learn Python for AI workflows
+- Contribute to open-source projects
+- Grow into a professional Prompt Engineer
+- Create a strong AI project portfolio
+
 
 ## 🌟 Why Remote Work Excellence
 
