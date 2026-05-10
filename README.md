@@ -241,7 +241,7 @@ Workflow Optimization    ██████████████░░░░�
 ### Contact Information
 - **Email:** lilianwogu2@gmail.com
 - **Phone/WhatsApp:** +234 903 138 651
-- **Notion Portfolio:** [Full portfolio with case studies](https://notion.so)
+- **Notion Portfolio:** [https://www.notion.so/35c5ed1fb4d7810f81e9c80687eb903a)
 - **LinkedIn:**(https://www.linkedin.com/in/lilianwogu-ai)
 
 ### What I’m Looking For
